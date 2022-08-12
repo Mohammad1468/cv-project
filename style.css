@@ -1,0 +1,108 @@
+
+.container {
+    max-width:1000px;
+    background-color:  #d1f2eb ;
+    margin: 0 auto;
+}
+header{
+#01F5CF
+#A3E4D7
+#01F7C6
+#138D75
+ #0b5345 
+ #009270
+}
+
+.profile-image{
+    width:100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius:50% ;
+    float: left;
+    margin: 15px;
+}
+
+.biodata{
+    float: left;
+    padding: 30px;
+}
+ h1,h2,h3,h4,h5{
+    color:#0b5345 ;
+    margin: 0 auto;
+}
+
+.header-contact{
+    float: right;
+    padding: 35px;
+    margin-top: 15px;
+}
+
+.header-contact a:hover{
+    text-decoration: underline;
+    color:red;
+}
+
+.clear-div {
+    clear: both;
+}
+
+hr{
+    border: solid black 3px;
+    margin: 15px;
+    border-bottom: none;
+}
+.line-common{
+    border: solid black 1px;
+    margin: 15px;
+    border-bottom: none;
+    margin-bottom: 20px auto; 
+}
+
+.contain{
+	margin: 20px ;
+}
+
+.left-div{
+    width:30%;
+    float:left;
+    
+}
+
+.right-div{
+    float:left;
+    width: 70%;
+    text-align: justify;
+
+}
+p{
+    margin: 0 auto;
+}
+.edu-left-div{
+    float: left;
+}
+.edu-right-div{
+    float: right;
+    margin: 0 auto;
+}
+.refered-left-div{
+    float: left;
+}
+.refered-right-div{
+    float: right;
+    margin: 0 auto;
+}
+.bottom-container{
+    background-color: black;
+    margin:15px;
+    padding: 10px;
+    text-align: center;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+}
